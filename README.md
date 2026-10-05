@@ -1,4 +1,4 @@
-# Multi-JD CV Tailor
+# An Agent Skill for Generating Multiple Customized CVs with a Single Prompt
 
 Turn one Codex prompt and multiple job descriptions into one truthful, tailored LaTeX CV and PDF for each role.
 
